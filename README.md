@@ -40,7 +40,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the Face Image
-faceImage = cv2.imread('PHOTO.JPG')
+faceImage = cv2.imread('b.png')
 plt.imshow(faceImage[:,:,::-1]);plt.title("Face")
 faceImage.shape
 
