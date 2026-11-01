@@ -102,3 +102,14 @@ plt.figure(figsize=[20,20]);
 ```
 ## Output:
 
+<img width="362" height="441" alt="Screenshot 2026-11-01 112815" src="https://github.com/user-attachments/assets/488e9662-f79b-4bce-a7f6-be566fb710a4" />
+
+<img width="540" height="297" alt="Screenshot 2026-11-01 112826" src="https://github.com/user-attachments/assets/77fabe24-e1bc-467e-a84e-b7ed1d2eade8" />
+
+<img width="1025" height="186" alt="Screenshot 2026-11-01 112838" src="https://github.com/user-attachments/assets/44761f40-bb44-4520-b38d-5676d7e22d48" />
+
+<img width="349" height="425" alt="Screenshot 2026-11-01 112849" src="https://github.com/user-attachments/assets/8ab2480a-e63a-449c-843c-8d62c45fac8e" />
+
+<img width="1020" height="175" alt="Screenshot 2026-11-01 112906" src="https://github.com/user-attachments/assets/a52e2ac6-a566-4055-8bc9-a288a5559dee" />
+
+<img width="1029" height="641" alt="Screenshot 2026-11-01 112930" src="https://github.com/user-attachments/assets/3863deff-53bf-4a62-abdd-c0033addf2cc" />
